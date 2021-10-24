@@ -1,4 +1,4 @@
-# Full-CRUD-API-Flask-SQLAlchemy
+# Full-CRUD-API-Flask-SQLAlchemy-Marshmallow
 
 C: Creating
 
